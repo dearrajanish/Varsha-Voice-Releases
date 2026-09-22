@@ -11,6 +11,6 @@ Welcome to the official repository for **Varsha Voice** updates. This repository
 
 ### 📥 How to Download
 
-If you are a beta tester or a whitelisted user, your app will automatically notify you when a new update is available here. You can also manually download the latest `app-release.apk` from the [Releases Tab](link-to-your-releases-tab-here).
+If you are a beta tester or a whitelisted user, your app will automatically notify you when a new update is available here. You can also manually download the latest `app-release.apk` from the [Releases Tab](https://github.com/dearrajanish/Varsha-Voice-Releases/releases).
 
 *Developed with ❤️ by Rajanish*
